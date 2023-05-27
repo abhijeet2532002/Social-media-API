@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LikeService/LikeService.iml" filepath="$PROJECT_DIR$/LikeService/LikeService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PostsService/PostsService.iml" filepath="$PROJECT_DIR$/PostsService/PostsService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelationService/RelationService.iml" filepath="$PROJECT_DIR$/RelationService/RelationService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerService/ServerService.iml" filepath="$PROJECT_DIR$/ServerService/ServerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Social media API.iml" filepath="$PROJECT_DIR$/.idea/Social media API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/UserService.iml" filepath="$PROJECT_DIR$/UserService/UserService.iml" />
+    </modules>
+  </component>
+</project>
